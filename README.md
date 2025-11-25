@@ -1,5 +1,8 @@
 # Cidade Dos Sinais
 Jogo educativo de Libras feito no projeto de extensão CEGI - Unifesp
+
+<img width="693" height="386" alt="image" src="https://github.com/user-attachments/assets/04fd52e3-c152-4abb-988b-f28bc0c8f039" />
+
 Jogo no drive: https://drive.google.com/drive/folders/1WgkuhnigyAiXs0GoxH-fqKkF7XYoFEkk?usp=share_link
 
 # Guia para programação
