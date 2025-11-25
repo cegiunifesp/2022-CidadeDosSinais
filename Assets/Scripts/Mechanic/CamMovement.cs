@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class CamMovement : MonoBehaviour
 {
     [Space]
-    [SerializeField] public GameObject camera = null;
+    [SerializeField] public new GameObject camera = null;
     [Space]
     [SerializeField] public Button arrowUp = null;
     [SerializeField] public Button arrowDown = null;
