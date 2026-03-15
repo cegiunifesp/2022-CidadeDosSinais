@@ -1,5 +1,6 @@
 # Cidade Dos Sinais
-Venha dar cor à Cidade dos Sinais! Explore o mapa para aprender os meios de transporte e lugares na língua brasileira de sinais
+Venha dar cor à Cidade dos Sinais! Explore o mapa para aprender os meios de transporte e lugares na língua brasileira de sinais.
+
 Jogo educativo de Libras feito no projeto de extensão CEGI - Unifesp
 
 <img width="693" height="386" alt="image" src="https://github.com/user-attachments/assets/04fd52e3-c152-4abb-988b-f28bc0c8f039" />
